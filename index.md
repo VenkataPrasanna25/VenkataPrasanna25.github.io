@@ -10,9 +10,10 @@ I'm a student passionate about Artificial Intelligence, Machine Learning, and bu
 - **AI & Generative AI:** Large Language Models (LLMs), OpenAI API
 - **Tools:** Git, GitHub, Python virtual environments
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### LLM-Based Document Classifier
+### 1. Document Classifier
 
 A Python project that uses a Large Language Model to analyze document content and predict categories.
 
@@ -21,6 +22,16 @@ A Python project that uses a Large Language Model to analyze document content an
 - Focuses on practical Generative AI applications
 
 [View Project on GitHub](https://github.com/VenkataPrasanna25/LLM-Based-Document-Classifier)
+### LLM-Based Sentiment Analysis
+### 2. Sentiment Analysis using Python
+
+A Python-based project that analyzes text and classifies its sentiment as positive, negative, or neutral. This project demonstrates my learning in Natural Language Processing (NLP) and text analysis.
+
+**Technologies:** Python, NLP, Sentiment Analysis
+
+**Project files:** `Agent.py`, `Req.txt`
+
+**GitHub Repository:** [View Project](https://github.com/VenkataPrasanna25/Sentiment-Analysis.git)
 ## 🎓 Education
 
 **B.Tech in Artificial Intelligence and Machine Learning**  
