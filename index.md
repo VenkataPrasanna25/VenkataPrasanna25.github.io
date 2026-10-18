@@ -37,4 +37,5 @@ Building a strong foundation in programming, AI/ML concepts, and practical proje
 ## 📫 Connect With Me
 
 - [GitHub](https://github.com/VenkataPrasanna25)
+- [LinkedIn](https://www.linkedin.com/in/venkata-prasanna-buddi-686743362)
 
